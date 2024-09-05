@@ -1,0 +1,5 @@
+tup = ("ABC","AcF")
+print(tup)
+print(tup.count("ABC"))
+print(tup.index("ABC"))
+print(list(tup))
